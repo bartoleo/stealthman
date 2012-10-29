@@ -1,0 +1,12 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.love"
+			],
+			"path": "/C/leo/love/stealthman"
+		}
+	]
+}
