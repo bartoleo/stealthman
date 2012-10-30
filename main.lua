@@ -11,7 +11,10 @@ require("lib/dumper")
 require("lib/json")
 require("lib/simplegui")
 require("lib/behavtree")
-require("lib/btlua")
+require("lib/BTLua")
+require("lib/mrpas")
+require("lib/los")
+require("lib/Astar_tengine")
 
 --profiler = require "profiler"
 
